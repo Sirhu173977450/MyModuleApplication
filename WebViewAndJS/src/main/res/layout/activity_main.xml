@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <Button
+        android:id="@+id/bt_1"
+        android:layout_width="match_parent"
+        android:text="跳转到其他界面"
+        android:layout_height="55dp" />
+    <Button
+        android:id="@+id/bt_"
+        android:layout_width="match_parent"
+        android:text="Android回调数据给js"
+        android:layout_height="55dp" />
+    <WebView
+        android:id="@+id/webview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+</LinearLayout>

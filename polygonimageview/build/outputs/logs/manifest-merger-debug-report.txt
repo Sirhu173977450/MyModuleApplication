@@ -1,0 +1,170 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\d187ec0beda5018fa6ced9f8f642be7f\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\a24fc1e9375fb60628220cc388fe1a94\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\829ac3640f61fb0578db7a67cce56ec3\constraintlayout-1.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\eb1f5b4c2a7dea9b3a06871ff9e44735\glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\dd5f6a3e43ee81e2b553467ea0f018fe\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\df56ad390e5620ab88e4e0955ff0d9a3\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\b2b23b22f47cff7d503b0bf8b5691a22\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\49d1ca719fcc8135fededcacd2eb4d86\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\d4ce6dcfeda8910829516f03e32207e9\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\d7a5cebe36a28a953b3bdf7bb3f5a853\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\41892721ec94e9f739ca321366ad9544\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\07940ecfe4dc0ceefe23d23feb5a8742\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\00d8eb8b94770f5234d7d6792d0a9e8f\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\c1405567e087bcfae07293875585262a\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\c0c3ec453714a605bfa0993fcb4872cc\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\31bb84c065ceac7a94185d8aedf83afc\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\9f768d9fefa93fb3134ad9946a7b50ab\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\2be8131d148e668972af357c4418d22c\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\01c6c903ce2eca7cfe7af7f5b07b1b0f\core-1.2.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\1fdc61364add85bde5ad06ce6cd31c28\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\de7d4dddc8f777c840d2a3eb9dae296e\gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\57348233a969142e5a2123cd32e7d05f\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\b08d9a97ca050c725a9f58829d86bb63\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\2e866a5f3cf88c7d2caa9a54d92eb418\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\50c55ec442e68fea78988a9cc6926849\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\cf832dce9639f6b6815ac8d2541a6d81\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\9688fb52fe79b2c8f68a355a0e7abc86\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\3aaf0baf52befdfcd6e5ab58f35f126d\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\089f654abb403bbb8650fbf6b638e058\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\b11670646d95ce354a99fed8fd5f75e1\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\25f6bee9a901e2e791254aa4db84933a\annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml
+		INJECTED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml
+		ADDED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml
+		ADDED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.google.android.material:material:1.2.1] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\d187ec0beda5018fa6ced9f8f642be7f\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\d187ec0beda5018fa6ced9f8f642be7f\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\829ac3640f61fb0578db7a67cce56ec3\constraintlayout-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\829ac3640f61fb0578db7a67cce56ec3\constraintlayout-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\eb1f5b4c2a7dea9b3a06871ff9e44735\glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\eb1f5b4c2a7dea9b3a06871ff9e44735\glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.2.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\01c6c903ce2eca7cfe7af7f5b07b1b0f\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\01c6c903ce2eca7cfe7af7f5b07b1b0f\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\de7d4dddc8f777c840d2a3eb9dae296e\gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\de7d4dddc8f777c840d2a3eb9dae296e\gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\b08d9a97ca050c725a9f58829d86bb63\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\b08d9a97ca050c725a9f58829d86bb63\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\01c6c903ce2eca7cfe7af7f5b07b1b0f\core-1.2.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml:7:9-45
+	android:allowBackup
+		ADDED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml:9:9-40
+activity#net.grobas.polygonimageview.sample.SampleActivity
+ADDED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml:10:9-18:20
+	android:label
+		ADDED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml:12:13-45
+	android:name
+		ADDED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml:11:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml
+INJECTED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.2.1] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\d187ec0beda5018fa6ced9f8f642be7f\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\d187ec0beda5018fa6ced9f8f642be7f\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\a24fc1e9375fb60628220cc388fe1a94\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\a24fc1e9375fb60628220cc388fe1a94\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\829ac3640f61fb0578db7a67cce56ec3\constraintlayout-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\829ac3640f61fb0578db7a67cce56ec3\constraintlayout-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\eb1f5b4c2a7dea9b3a06871ff9e44735\glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\eb1f5b4c2a7dea9b3a06871ff9e44735\glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\dd5f6a3e43ee81e2b553467ea0f018fe\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\dd5f6a3e43ee81e2b553467ea0f018fe\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\df56ad390e5620ab88e4e0955ff0d9a3\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\df56ad390e5620ab88e4e0955ff0d9a3\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\b2b23b22f47cff7d503b0bf8b5691a22\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\b2b23b22f47cff7d503b0bf8b5691a22\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\49d1ca719fcc8135fededcacd2eb4d86\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\49d1ca719fcc8135fededcacd2eb4d86\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\d4ce6dcfeda8910829516f03e32207e9\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\d4ce6dcfeda8910829516f03e32207e9\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\d7a5cebe36a28a953b3bdf7bb3f5a853\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\d7a5cebe36a28a953b3bdf7bb3f5a853\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\41892721ec94e9f739ca321366ad9544\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\41892721ec94e9f739ca321366ad9544\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\07940ecfe4dc0ceefe23d23feb5a8742\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\07940ecfe4dc0ceefe23d23feb5a8742\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\00d8eb8b94770f5234d7d6792d0a9e8f\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\00d8eb8b94770f5234d7d6792d0a9e8f\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\c1405567e087bcfae07293875585262a\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\c1405567e087bcfae07293875585262a\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\c0c3ec453714a605bfa0993fcb4872cc\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\c0c3ec453714a605bfa0993fcb4872cc\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\31bb84c065ceac7a94185d8aedf83afc\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\31bb84c065ceac7a94185d8aedf83afc\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\9f768d9fefa93fb3134ad9946a7b50ab\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\9f768d9fefa93fb3134ad9946a7b50ab\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\2be8131d148e668972af357c4418d22c\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\2be8131d148e668972af357c4418d22c\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\01c6c903ce2eca7cfe7af7f5b07b1b0f\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\01c6c903ce2eca7cfe7af7f5b07b1b0f\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\1fdc61364add85bde5ad06ce6cd31c28\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\1fdc61364add85bde5ad06ce6cd31c28\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\de7d4dddc8f777c840d2a3eb9dae296e\gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\de7d4dddc8f777c840d2a3eb9dae296e\gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\57348233a969142e5a2123cd32e7d05f\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\57348233a969142e5a2123cd32e7d05f\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\b08d9a97ca050c725a9f58829d86bb63\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\b08d9a97ca050c725a9f58829d86bb63\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\2e866a5f3cf88c7d2caa9a54d92eb418\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\2e866a5f3cf88c7d2caa9a54d92eb418\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\50c55ec442e68fea78988a9cc6926849\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\50c55ec442e68fea78988a9cc6926849\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\cf832dce9639f6b6815ac8d2541a6d81\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\cf832dce9639f6b6815ac8d2541a6d81\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\9688fb52fe79b2c8f68a355a0e7abc86\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\9688fb52fe79b2c8f68a355a0e7abc86\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\3aaf0baf52befdfcd6e5ab58f35f126d\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\3aaf0baf52befdfcd6e5ab58f35f126d\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\089f654abb403bbb8650fbf6b638e058\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\089f654abb403bbb8650fbf6b638e058\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\b11670646d95ce354a99fed8fd5f75e1\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\b11670646d95ce354a99fed8fd5f75e1\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\25f6bee9a901e2e791254aa4db84933a\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Program Files (x86)\Java\jdk1.8.0_101\caches\transforms-2\files-2.1\25f6bee9a901e2e791254aa4db84933a\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml
+INJECTED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml
+		ADDED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml
+		INJECTED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml
+		ADDED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml
+		INJECTED from E:\test\MyModuleApplication\polygonimageview\src\main\AndroidManifest.xml

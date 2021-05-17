@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 形状资源 -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <!-- 矩形四个角的弧度 -->
+    <corners android:radius="20dp" />
+    <!-- 渐变色 -->
+    <gradient
+        android:endColor="#330000ff"
+        android:startColor="#0000ff" />
+
+    <padding
+        android:left="10dp"
+        android:top="10dp" />
+
+    <!-- 固定颜色 -->
+    <!--
+          <solid
+        android:color="#ff0000" />
+    -->
+    <!-- 图形的边框 -->
+    <stroke
+        android:dashGap="2dp"
+        android:dashWidth="50dp"
+        android:width="0.5dp"
+        android:color="#000000" />
+
+</shape>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginRight="30dp"
+    android:layout_marginLeft="30dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#00000000">
+    <!--top-->
+    <FrameLayout
+        android:id="@+id/flTitle"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="#00000000">
+
+        <TextView
+            android:id="@+id/tvRouterDialog"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="35dp"
+            android:background="@drawable/tv_common_dialog_top"/>
+        <!--img-->
+        <LinearLayout
+            android:id="@+id/llRouterImg"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginLeft="10dp"
+            android:background="#00000000"
+            android:gravity="center">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/imgTitle"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:src="@drawable/head"/>
+        </LinearLayout>
+    </FrameLayout>
+
+<View
+    android:id="@+id/viewLong"
+    android:layout_width="match_parent"
+    android:layout_height="1dp"
+    android:layout_below="@+id/llRouterName"
+    android:background="@color/gray_very_light"/>
+    <!--router name-->
+    <LinearLayout
+        android:id="@+id/llRouterName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/tv_common_dialog_top"
+        android:layout_below="@+id/flTitle"
+        android:paddingBottom="40dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <!--<TextView-->
+            <!--android:layout_width="50dp"-->
+            <!--android:layout_height="40dp"-->
+            <!--android:layout_marginLeft="20dp"-->
+            <!--android:gravity="center"-->
+            <!--android:textSize="18sp"-->
+            <!--android:text="名称:"/>-->
+        <!--<EditText-->
+            <!--android:id="@+id/etName"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="40dp"-->
+            <!--android:layout_marginLeft="10dp"-->
+            <!--android:layout_marginRight="40dp"-->
+            <!--android:singleLine="true"-->
+            <!--android:background="@drawable/selector_et"/>-->
+
+        <LinearLayout
+            android:layout_width="287dp"
+            android:layout_height="295dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="摩iNS类型说明"
+                android:textColor="@color/black"
+                android:layout_marginTop="25dp"
+                android:textSize="15sp" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="15dp"
+                android:text="默认"
+                android:textColor="#4B8BE1"
+                android:textSize="15sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="没有任何限定的摩iNS"
+                android:textColor="@color/notify_tab_normal_color"
+                android:textSize="12sp" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="15dp"
+                android:text="限时摩iNS"
+                android:textColor="#4B8BE1"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="只在规定时间内显示"
+                android:textColor="@color/notify_tab_normal_color"
+                android:textSize="12sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="时效过期后将看不到本条摩iNS"
+                android:textColor="@color/notify_tab_normal_color"
+                android:textSize="12sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="限时摩iNS每天只能发布一条"
+                android:textColor="@color/notify_tab_normal_color"
+                android:textSize="12sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="15dp"
+                android:text="摩礼"
+                android:textColor="#4B8BE1"
+                android:textSize="14sp" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="需要赠送发布者指定礼物"
+                android:textColor="@color/notify_tab_normal_color"
+                android:textSize="12sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="才可以查看的摩iNS"
+                android:textColor="@color/notify_tab_normal_color"
+                android:textSize="12sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="摩礼每天只能发布一条"
+                android:textColor="@color/notify_tab_normal_color"
+                android:textSize="12sp" />
+        </LinearLayout>
+    </LinearLayout>
+    <!--cancle confirm-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/viewLong"
+        android:orientation="horizontal">
+        <!--<Button-->
+            <!--android:id="@+id/btnCancle"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="45dp"-->
+            <!--android:layout_weight="1"-->
+            <!--android:gravity="center"-->
+            <!--android:background="@drawable/selector_btn_common_cancle"-->
+            <!--android:text="取消"-->
+            <!--style="?android:attr/borderlessButtonStyle"/>-->
+       <!--<View-->
+            <!--android:layout_width="1dp"-->
+            <!--android:layout_height="45dp"-->
+            <!--android:background="@color/gray_very_light"/>-->
+        <!--<Button-->
+            <!--android:id="@+id/btnConfirm"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="45dp"-->
+            <!--android:layout_weight="1"-->
+            <!--android:gravity="center"-->
+            <!--android:background="@drawable/selector_btn_common_confirm"-->
+            <!--android:text="确定"-->
+            <!--style="?android:attr/borderlessButtonStyle"/>-->
+
+
+
+    </LinearLayout>
+
+</RelativeLayout>

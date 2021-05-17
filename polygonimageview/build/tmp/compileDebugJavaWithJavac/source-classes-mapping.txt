@@ -1,0 +1,21 @@
+net/grobas/polygonimageview/sample/BuildConfig.java
+ net.grobas.polygonimageview.sample.BuildConfig
+net/grobas/polygonimageview/sample/shapes/PolygonShape.java
+ net.grobas.polygonimageview.sample.shapes.PolygonShape
+net/grobas/polygonimageview/sample/shapes/StarPolygonShape.java
+ net.grobas.polygonimageview.sample.shapes.StarPolygonShape
+net/grobas/polygonimageview/sample/shapes/PolygonShapeSpec.java
+ net.grobas.polygonimageview.sample.shapes.PolygonShapeSpec
+net/grobas/polygonimageview/sample/SampleActivity.java
+ net.grobas.polygonimageview.sample.SampleActivity
+net/grobas/polygonimageview/sample/view/PolygonImageView.java
+ net.grobas.polygonimageview.sample.view.PolygonImageView
+net/grobas/polygonimageview/sample/shapes/RegularPolygonShape.java
+ net.grobas.polygonimageview.sample.shapes.RegularPolygonShape
+net/grobas/polygonimageview/sample/view/util/GeometryUtil.java
+ net.grobas.polygonimageview.sample.view.util.GeometryUtil
+ net.grobas.polygonimageview.sample.view.util.GeometryUtil$Point
+net/grobas/polygonimageview/sample/shapes/PaperPolygonShape.java
+ net.grobas.polygonimageview.sample.shapes.PaperPolygonShape
+net/grobas/polygonimageview/sample/shapes/BasePolygonShape.java
+ net.grobas.polygonimageview.sample.shapes.BasePolygonShape

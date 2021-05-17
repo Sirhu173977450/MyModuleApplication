@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#eeffffff</color>
+    <color name="gray_white">#66ffffff</color>
+    <color name="indicate_line">#31C27C</color>
+    <color name="list_pressed">#22ffffff</color>
+</resources>

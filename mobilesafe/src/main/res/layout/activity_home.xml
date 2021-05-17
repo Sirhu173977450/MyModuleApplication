@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/blue_bkg" >
+
+        <ImageView
+            android:id="@+id/iv_home_logo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ic_launcher" />
+
+        <TextView
+            android:id="@+id/tv_home_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="80dip"
+            android:layout_marginTop="20dip"
+            android:text="三月，醉一场青春的流年"
+            android:textSize="20sp" />
+        <!-- 改为自定义的view -->
+
+        <com.example.mobilesafe.ui.FocusedTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_home_title"
+            android:layout_marginLeft="35dip"
+            android:layout_marginTop="25dip"
+            android:layout_toRightOf="@id/iv_home_logo"
+            android:ellipsize="marquee"
+            android:focusableInTouchMode="true"
+            android:singleLine="true"
+            android:text="　三月，醉一场青春的流年。慢步在三月的春光里，走走停停，看花开嫣然，看春雨绵绵，感受春风拂面，春天，就是青春的流年。青春，是人生中最美的风景。青春，是一场花开的遇见"
+            android:textColor="#bbff0000"
+            android:textSize="15sp" />
+        
+        <ImageButton 
+            android:onClick="enterSettingActivity"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/setting"
+            />
+    </RelativeLayout>
+
+    <GridView
+        android:numColumns="2"
+        android:id="@+id/gv_home_item"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+    </GridView>
+
+</LinearLayout>

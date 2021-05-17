@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:background="#99CCFF"
+        android:gravity="center"
+        android:text="设置界面"
+        android:textColor="#ffffff"
+        android:textSize="20sp" />
+
+    <RelativeLayout
+        android:id="@+id/rl_setting_update"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dip"
+        android:background="@drawable/item_setting_first"
+        android:padding="5dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="2dp"
+            android:padding="2dp"
+            android:text="自动更新设置"
+            android:textSize="16sp" />
+
+        <com.example.mobilesafe.ui.SwitchImageView
+            android:id="@+id/siv_setting_update"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="12dp"
+            android:src="@drawable/on" />
+    </RelativeLayout>
+
+    <RelativeLayout
+          android:id="@+id/rl_setting_callsmssafe"
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       android:background="@drawable/item_setting_middle"
+        android:padding="5dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="2dp"
+            android:padding="2dp"
+            android:text="骚扰拦截设置"
+            android:textSize="16sp" />
+
+        <com.example.mobilesafe.ui.SwitchImageView
+             android:id="@+id/siv_callsmssafe"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="12dp"
+            android:src="@drawable/on" />
+    </RelativeLayout>
+
+    <RelativeLayout
+          android:id="@+id/rl_setting_showlocation"
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       android:background="@drawable/item_setting_middle"
+        android:padding="5dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="2dp"
+            android:padding="2dp"
+            android:text="归属地显示设置"
+            android:textSize="16sp" />
+
+        <com.example.mobilesafe.ui.SwitchImageView
+             android:id="@+id/siv_showlocation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="12dp"
+            android:src="@drawable/on" />
+    </RelativeLayout>
+    
+    <RelativeLayout
+          android:id="@+id/rl_setting_changestyle"
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       android:background="@drawable/item_setting_middle"
+        android:padding="5dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="2dp"
+            android:padding="2dp"
+            android:text="归属地显示风格"
+            android:textSize="16sp" />
+
+        
+    </RelativeLayout>
+    
+    
+    <RelativeLayout
+        android:onClick="changeApplockStatus"
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/item_setting_last"
+        android:padding="5dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="2dp"
+            android:padding="2dp"
+            android:text="程序锁看门狗服务"
+            android:textSize="16sp" />
+
+        <com.example.mobilesafe.ui.SwitchImageView
+            android:id="@+id/siv_applock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="12dp"
+            android:src="@drawable/on" />
+    </RelativeLayout>
+</LinearLayout>

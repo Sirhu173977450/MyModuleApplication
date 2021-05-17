@@ -1,0 +1,10 @@
+com/Parallax/effects/BuildConfig.java
+ com.Parallax.effects.BuildConfig
+com/Parallax/effects/Cheeses.java
+ com.Parallax.effects.Cheeses
+com/Parallax/effects/ParallaxListView.java
+ com.Parallax.effects.ParallaxListView
+ com.Parallax.effects.ParallaxListView$1
+com/Parallax/effects/MainActivity.java
+ com.Parallax.effects.MainActivity
+ com.Parallax.effects.MainActivity$1

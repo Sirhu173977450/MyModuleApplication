@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        style="@style/text_title"
+        android:text="进程管理" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/tv_processcount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="运行中的进程：x个"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/tv_memory_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="剩余/总内存；"
+            android:textColor="#000000" />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/lv_processinfos"
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1" >
+    </ListView>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+        
+        <Button
+        android:layout_width="0dip"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:background="@drawable/dg_confirm_selector"
+        android:onClick="killSelected"
+        android:text="一键清理" />
+        
+        <Button
+        android:layout_width="0dip"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:background="@drawable/dg_confirm_selector"
+        android:onClick="selectAll"
+        android:text="全选" />
+        
+              <Button
+        android:layout_width="0dip"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:background="@drawable/dg_confirm_selector"
+        android:onClick="selectOther"
+        android:text="反选" />
+    </LinearLayout>
+
+    
+</LinearLayout>

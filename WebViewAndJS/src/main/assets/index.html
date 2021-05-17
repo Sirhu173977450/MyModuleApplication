@@ -1,0 +1,56 @@
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<head>
+    <title>演示</title>
+
+    // JS代码
+    <script>
+// Android需要调用的方法
+   function callJS( number){
+      alert("Android调用了JS的callJS方法传递的参数: "+number);
+   }
+
+
+
+    </script>
+    <script>
+       //定义本地方法 效果提供给Android端调用   被调用后将获得参数值
+    function callH5(data){
+          <!--alert("Android调用了JS的callJS方法"+data);-->
+        document.getElementById("result").innerHTML="result success for Android to:"+data;
+    }
+
+
+    </script>
+       
+    <script>
+   function callAndroid(){
+        /*约定的url协议为：js://webview?arg1=111&arg2=222*/
+       document.location = "js://webview?arg1="+123456789;
+   }
+
+
+    function jsJava(){
+        //调用java的方法，顶级对象，java方法
+        //可以直接访问JSTest，这是因为JSTest挂载到js的window对象下了
+        JSTest.showToast("我是被JS执行的Android代码");
+    }
+    </script>
+
+
+
+</head>
+<body>
+<h1>第一个演示程序</h1>
+<p>这是在浏览器中看到的内容</p>
+
+<button type="button" value="确定" onclick="callAndroid()" style="width:300px;height:100px" style='font-size:80px'>JS回调Android并传递参数
+</button>
+
+<button type="button" value="确定" onclick="jsJava()" style="width:300px;height:100px" style='font-size:80px'>JS通过interface回调Android并传递参数
+</button>
+<br>
+<input id="te_content" type="text" style="width:300px;height:100px">
+<div id="result">效果展示</div>
+</body>
+</html>

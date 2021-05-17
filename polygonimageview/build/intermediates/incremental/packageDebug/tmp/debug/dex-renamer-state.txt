@@ -1,0 +1,4 @@
+#Fri May 14 18:10:22 CST 2021
+base.0=E\:\\test\\MyModuleApplication\\polygonimageview\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

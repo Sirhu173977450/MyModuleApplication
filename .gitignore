@@ -1,0 +1,17 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+# Project exclude paths
+/friendCircle/build/
+/friendCircle/build/intermediates/javac/debug/classes/
+/photoViewlibrary/build/
+/photoViewlibrary/build/intermediates/javac/debug/classes/
+/pullToRefresh/build/
+/pullToRefresh/build/intermediates/javac/debug/classes/

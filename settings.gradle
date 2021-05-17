@@ -1,0 +1,50 @@
+include ':calendar'
+include ':nicedialog'//include ':address'
+//include ':application_market'
+include ':pullToRefresh'
+
+//
+//include ':CityQuickIndex'
+//
+//include ':CitySelectWheeView'
+//include ':pickerview'
+//
+//include ':ExpandRecyclerView'
+//include ':Flpwlayout'
+//
+include ':friendCircle'
+include ':photoViewlibrary'
+//
+//include ':generatescreen'
+
+include ':RecyclerViewChecked'
+include ':SingleAndMultiChoiceRecyclerView'
+
+//include ':SnappedDiyDialog'
+include ':startactivityforresult'
+include ':taobaoCar'
+include ':Time_Countdown'
+//include ':timeline'
+
+//include ':webSerser'
+//include ':WebViewAndJS'
+//include ':mobilemedia'
+//include ':InitActivity'
+//
+//include ':nmproj221'
+//include ':mobilesafe'
+//
+//include ':Parallax_effects'
+//include ':ponyexpress'
+
+//
+
+//include ':dynamicshortcuts'
+//moc定位
+//include ':origin_map'
+//include ':location'
+//include ':polygonimageview'
+
+//include ':CustomWaterView'
+//include ':expandableTextview'
+//include ':waterView'

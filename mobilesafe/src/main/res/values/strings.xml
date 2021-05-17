@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">APP</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="sample_device_admin">APP手机卫士管理员</string>
+    <string name="sample_device_admin_description">APP手机卫士超级管理员开启后可以远程锁屏,销毁数据</string>
+
+</resources>

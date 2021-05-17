@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:paddingTop="6dp"
+        android:layout_height="wrap_content"
+        android:text="2014/06/24 \n20:55:28"/>
+
+    <RelativeLayout
+        android:id="@+id/rlTimeline"
+        android:layout_width="32dp"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/tvTopLine"
+            android:layout_width="0.5dp"
+            android:layout_height="12dp"
+            android:layout_centerHorizontal="true"
+            android:background="#999" />
+
+        <TextView
+            android:id="@+id/tvDot"
+            android:layout_width="5dp"
+            android:layout_height="5dp"
+            android:layout_below="@id/tvTopLine"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/timelline_dot_normal" />
+
+        <TextView
+            android:layout_width="0.5dp"
+            android:layout_height="match_parent"
+            android:layout_below="@id/tvDot"
+            android:layout_centerHorizontal="true"
+            android:background="#999" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_toRightOf="@+id/rlTimeline"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:id="@+id/rlCenter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            >
+
+            <TextView
+                android:id="@+id/tvAcceptStation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="快件在 深圳 ,准备送往下深[深圳市]\n快件在 深圳 ,准备送往下一站 [深圳市]\n"
+                android:textColor="#999"
+                android:textSize="12sp" />
+
+
+
+            <!--<LinearLayout-->
+                <!--android:id="@+id/imagePanel"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:orientation="vertical"-->
+                <!--android:layout_marginBottom="6dp"-->
+       <!---->
+                <!--android:layout_marginTop="6dp"-->
+                <!--android:background="@color/colorAccent"-->
+                <!--android:layout_height="wrap_content">-->
+
+            <!--</LinearLayout>-->
+            <cc.duduhuo.timelinerecyclerview.view.NineGridlayout
+                android:layout_marginTop="8dp"
+                android:id="@+id/imagePanel"
+                android:layout_below="@+id/tvAcceptStation"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent" />
+        </RelativeLayout>
+
+    </RelativeLayout>
+</LinearLayout>

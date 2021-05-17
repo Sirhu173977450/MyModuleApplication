@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\test\\MyModuleApplication\\polygonimageview\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_cat03.jpg.flat",
+        "source": "E:\\test\\MyModuleApplication\\polygonimageview\\src\\main\\res\\drawable-nodpi\\cat03.jpg"
+    },
+    {
+        "merged": "E:\\test\\MyModuleApplication\\polygonimageview\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_cat04.jpg.flat",
+        "source": "E:\\test\\MyModuleApplication\\polygonimageview\\src\\main\\res\\drawable-nodpi\\cat04.jpg"
+    },
+    {
+        "merged": "E:\\test\\MyModuleApplication\\polygonimageview\\build\\intermediates\\res\\merged\\debug\\layout_activity_sample.xml.flat",
+        "source": "E:\\test\\MyModuleApplication\\polygonimageview\\src\\main\\res\\layout\\activity_sample.xml"
+    },
+    {
+        "merged": "E:\\test\\MyModuleApplication\\polygonimageview\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_cat05.jpg.flat",
+        "source": "E:\\test\\MyModuleApplication\\polygonimageview\\src\\main\\res\\drawable-nodpi\\cat05.jpg"
+    },
+    {
+        "merged": "E:\\test\\MyModuleApplication\\polygonimageview\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\test\\MyModuleApplication\\polygonimageview\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\test\\MyModuleApplication\\polygonimageview\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_cat07.jpg.flat",
+        "source": "E:\\test\\MyModuleApplication\\polygonimageview\\src\\main\\res\\drawable-nodpi\\cat07.jpg"
+    },
+    {
+        "merged": "E:\\test\\MyModuleApplication\\polygonimageview\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\test\\MyModuleApplication\\polygonimageview\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\test\\MyModuleApplication\\polygonimageview\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_cat06.jpg.flat",
+        "source": "E:\\test\\MyModuleApplication\\polygonimageview\\src\\main\\res\\drawable-nodpi\\cat06.jpg"
+    },
+    {
+        "merged": "E:\\test\\MyModuleApplication\\polygonimageview\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\test\\MyModuleApplication\\polygonimageview\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\test\\MyModuleApplication\\polygonimageview\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_cat01.jpg.flat",
+        "source": "E:\\test\\MyModuleApplication\\polygonimageview\\src\\main\\res\\drawable-nodpi\\cat01.jpg"
+    },
+    {
+        "merged": "E:\\test\\MyModuleApplication\\polygonimageview\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_cat02.jpg.flat",
+        "source": "E:\\test\\MyModuleApplication\\polygonimageview\\src\\main\\res\\drawable-nodpi\\cat02.jpg"
+    },
+    {
+        "merged": "E:\\test\\MyModuleApplication\\polygonimageview\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\test\\MyModuleApplication\\polygonimageview\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyModuleApplication.iml" filepath="$PROJECT_DIR$/MyModuleApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RecyclerViewChecked/MyModuleApplication.RecyclerViewChecked.iml" filepath="$PROJECT_DIR$/.idea/modules/RecyclerViewChecked/MyModuleApplication.RecyclerViewChecked.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SingleAndMultiChoiceRecyclerView/MyModuleApplication.SingleAndMultiChoiceRecyclerView.iml" filepath="$PROJECT_DIR$/.idea/modules/SingleAndMultiChoiceRecyclerView/MyModuleApplication.SingleAndMultiChoiceRecyclerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Time_Countdown/MyModuleApplication.Time_Countdown.iml" filepath="$PROJECT_DIR$/.idea/modules/Time_Countdown/MyModuleApplication.Time_Countdown.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calendar/MyModuleApplication.calendar.iml" filepath="$PROJECT_DIR$/.idea/modules/calendar/MyModuleApplication.calendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/friendCircle/MyModuleApplication.friendCircle.iml" filepath="$PROJECT_DIR$/.idea/modules/friendCircle/MyModuleApplication.friendCircle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nicedialog/MyModuleApplication.nicedialog.iml" filepath="$PROJECT_DIR$/.idea/modules/nicedialog/MyModuleApplication.nicedialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/photoViewlibrary/MyModuleApplication.photoViewlibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/photoViewlibrary/MyModuleApplication.photoViewlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pullToRefresh/MyModuleApplication.pullToRefresh.iml" filepath="$PROJECT_DIR$/.idea/modules/pullToRefresh/MyModuleApplication.pullToRefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/startactivityforresult/MyModuleApplication.startactivityforresult.iml" filepath="$PROJECT_DIR$/.idea/modules/startactivityforresult/MyModuleApplication.startactivityforresult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/taobaoCar/MyModuleApplication.taobaoCar.iml" filepath="$PROJECT_DIR$/.idea/modules/taobaoCar/MyModuleApplication.taobaoCar.iml" />
+    </modules>
+  </component>
+</project>
